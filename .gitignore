@@ -2,3 +2,5 @@
 .DS_Store
 Box1/.ipynb_checkpoints/*
 Figure2/.ipynb_checkpoints/*
+extras/plots/*
+*checkpoints*
