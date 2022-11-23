@@ -6,3 +6,4 @@ extras/plots/*
 *checkpoints*
 Box1/plots/*
 __pycache__/helper_functions.cpython-38.pyc
+Figure3/tmp.nc
