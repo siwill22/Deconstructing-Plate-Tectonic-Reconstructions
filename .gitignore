@@ -7,3 +7,4 @@ extras/plots/*
 Box1/plots/*
 __pycache__/helper_functions.cpython-38.pyc
 Figure3/tmp.nc
+Figure6/tmp.*
