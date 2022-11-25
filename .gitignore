@@ -8,3 +8,15 @@ Box1/plots/*
 __pycache__/helper_functions.cpython-38.pyc
 Figure3/tmp.nc
 Figure6/tmp.*
+Box1/optimization.pdf
+Box1/plume_generation_zone.pdf
+Box1/slab_fitting.pdf
+Box1/GAPWAP.pdf
+Figure2/ReconstructionBasisDataContinents.pdf
+Figure2/ReconstructionBasisDataOceans.pdf
+Figure3/Figure3.eps
+Figure3/Figure3.pdf
+Figure3/tomotectonics.pdf
+Figure3/plate_tectonics.pdf
+Figure5/AndesTimeLatitudePlot.pdf
+Figure6/Figure6.pdf
