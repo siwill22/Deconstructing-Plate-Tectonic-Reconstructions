@@ -26,3 +26,5 @@ Figure3/Figure3_alt.pdf
 Box1/sequences/*
 Figure3/sequence/*
 extras/sequence/*
+extras/__temp__.mp4
+__pycache__/animators.cpython-38.pyc
