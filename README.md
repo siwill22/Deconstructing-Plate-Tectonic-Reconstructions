@@ -16,6 +16,10 @@ This repository contains code to reproduce figures and animations associated wit
 }
 ```
 
+## Requirements
+- all code is based on python3, and run through jupyter notebooks. 
+- Most python dependencies are installable via conda or pip; additional requirements [pygplates](https://www.gplates.org/docs/pygplates/), [PlateTectonicsTools](https://github.com/EarthByte/PlateTectonicTools) and [GPlatesReconstructionModel](https://github.com/siwill22/GPlatesReconstructionModel) must currently be configured separately - follow the links for instructions.
+- The code relies on a wide range of independently compiled data sources and plate tectonic reconstructions. Many of these data sources are automatically downloaded and saved to a local cache when the code is run for the first time. Other data are contained and described in the [Data folder](../main/data).
 
 
 ## Notes
