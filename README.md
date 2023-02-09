@@ -18,4 +18,8 @@ This repository contains code to reproduce figures and animations associated wit
 
 
 
-The code is organised into folders corresponding to each figure. 
+## Notes
+- The illustrations in the paper were created using either [GPlates](http://www.gplates.org) or through python code. This repository contains the code for the latter of these groups.
+- The code is organised into folders corresponding to each figure. 
+- Figures produced by this code will be similar to, but not identical to, the figures in the paper due to formatting changes made by the publishers.
+
