@@ -7,7 +7,7 @@ This repository contains code to reproduce figures and animations associated wit
 ### Citation
 ```
 @article{Seton++2023DeconstructingPlateTectonicReconstructions,
-  author  = {Maria Seton and Simon Williams and Mathew Domeier and Karin Sigloch and Alan Collins},
+  author  = {Maria Seton and Simon Williams and Mathew Domeier and Alan Collins and Karin Sigloch},
   title   = {Deconstructing Plate Tectonic Reconstructions},
   journal = {Nature Reviews Earth and Environment},
   year    = {2023},
