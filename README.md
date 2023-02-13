@@ -1,5 +1,7 @@
 # Deconstructing Plate Tectonic Reconstructions
 
+[![DOI](https://zenodo.org/badge/526650363.svg)](https://zenodo.org/badge/latestdoi/526650363)
+
 This repository contains code to reproduce figures and animations associated with the manuscript **Deconstructing plate tectonic reconstructions**, authors Seton, Williams, Domeier, Collins & Sigloch, to appear in *Nature Reviews Earth & Environment*
 
 ### Citation
