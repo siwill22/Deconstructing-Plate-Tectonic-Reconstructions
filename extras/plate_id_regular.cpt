@@ -1,0 +1,45 @@
+#
+# This is an example regular CPT file that can be used with GPlates.
+#
+# This CPT file is intended for colouring geometries by plate ID.
+#
+# It colours plates with an ID in the format 7xx orange and plates with an ID in
+# the format 8xx green. Plates with an ID less than 700 are coloured black, and
+# plates with an ID greater than or equal to 900 are coloured white.
+#
+# The format for regular CPT files is described here:
+# http://gmt.soest.hawaii.edu/doc/latest/GMT_Docs.html#regular-cpts
+#
+100     lightsalmon     200    lightsalmon
+200     yellow      300    yellow     L; South America
+300     gray            400    gray
+400     royalblue       500    royalblue
+500     peachpuff4      600    peachpuff4
+600     brown           700    brown
+700     powderblue          800    powderblue        L    ;Africa
+800     orange         802    orange      L; Australia
+802     dodgerblue4        900    dodgerblue4      L; Antarctica
+900     darkorchid2     902    darkorchid2
+902     purple4         1000    purple4
+1000     lightsalmon     2000    lightsalmon
+2000     yellow      3000    yellow     L; South America
+3000     gray            4000    gray
+4000     royalblue       5000    royalblue
+5000     peachpuff4      6000    peachpuff4
+6000     brown           7000    brown
+7000     powderblue          8000    powderblue        L    ;Africa
+8000     orange         9000    orange      L; Australia
+9000    white       10000    white
+10000     lightsalmon     20000    lightsalmon
+20000     yellow      30000    yellow     L; South America
+30000     gray            40000    gray
+40000     royalblue       50000    royalblue
+50000     peachpuff4      60000    peachpuff4
+60000     brown           70000    brown
+70000     powderblue          80000    powderblue        L    ;Africa
+80000     orange         90000    orange      L; Australia
+90000    white       100000    white
+
+B	0	0	0
+F	255	255	255
+N	128	128	128
