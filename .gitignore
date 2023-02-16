@@ -36,3 +36,7 @@ extras/tmp.geojson
 extras/tmp.gmt
 extras/tmp.gmt.gplates.xml
 extras/tmp.nc
+extras/tmp.dbf
+extras/tmp.prj
+extras/tmp.shp
+extras/tmp.shx
